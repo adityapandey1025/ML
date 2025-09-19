@@ -103,5 +103,9 @@ A linear regression model would learn something like:
 	* [Intermediate code](LA_code1.py)
 	* [Model accuracy test code](LA_code_3.py)
 	* [Data from csv file](LA_code_04.py)
-	* 
-	* 
+
+# Example of Multiple Linear Regression
+* *Predicting the score based on previous study time ,sleep time, attendance,practice test and score*
+	* [Basic code](MR_code1.py)
+* *Predicting the score based on previous study time and score dataset*
+* 

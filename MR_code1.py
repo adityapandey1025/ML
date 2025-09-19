@@ -1,3 +1,4 @@
+from re import L
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -39,3 +40,17 @@ print(f"The predicted score is {predicted_score.item()}")
 # find the model accuracy
 model_accuracy=model.score(test_x,test_y)
 print(f"The model accuracy is {model_accuracy}")
+
+
+
+# plot the y=x line
+min_score = min(test_y.min(), model.predict(test_x).min())
+max_score = max(test_y.max(), model.predict(test_x).max())
+plt.plot([min_score, max_score], [min_score, max_score], 'r--', label="Perfect Prediction (y=x)")
+
+plt.xlabel("actual score")
+plt.ylabel("predicted score")
+plt.title("Multiple linear Regression")
+plt.scatter(test_y,model.predict(test_x),c='green',marker='*',label="actual vs predicted score")
+plt.legend(loc='upper left')  # moves the legend
+plt.show()
