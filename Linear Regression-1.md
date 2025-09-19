@@ -101,5 +101,6 @@ A linear regression model would learn something like:
 * *Predicting the score based on previous study time and score dataset*
 	* [Basic code](LA_code_intro.py)
 	* [Intermediate code](LA_code1.py)
+	* [Model accuracy test code](LA_code_3.py)
 	* 
 	* 

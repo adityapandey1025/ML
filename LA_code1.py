@@ -23,6 +23,8 @@ plt.legend(loc='upper left')
 
 #plotting
 plt.plot(np.linspace(0,80,100).reshape(-1,1),model.predict(np.linspace(0,80,100).reshape(-1,1)),'b--')
+plt.xlim(0,100)
+plt.ylim(0,100)
 plt.scatter(input_array,predicted_score,s=50,color='red',marker='D',label='Predicted Score')
 plt.plot([input_time,input_time],[0,predicted_score.item()],'g--')
 plt.plot([0,input_time],[predicted_score.item(),predicted_score.item()],'g--')
