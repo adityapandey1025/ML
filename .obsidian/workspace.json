@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression-1.md",
+                "file": "ML-Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression-1"
+              "title": "ML-Intro"
             }
           }
         ]
@@ -169,16 +169,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf21252633e0dd7e",
+  "active": "9a146b9a80d38114",
   "lastOpenFiles": [
+    "KNN_01.py",
+    "Linear Regression-1.md",
+    "ML-Intro.md",
     "LA_code_3.py~",
     "LA_code_3.py",
     "LA_code_intro.py~",
     "LA_code_intro.py",
     "LA_code1.py~",
     "LA_code1.py",
-    "ML-Intro.md",
-    "Linear Regression-1.md",
     "Lecture2/h.md",
     "Lecture2/Linear Regression 1.md",
     "Images_SS/Pasted image 20250918185427.png",
@@ -191,7 +192,6 @@
     "hello.py",
     "Images_SS/Pasted image 20250917010907.png",
     "Images_SS/Pasted image 20250917010826.png",
-    "ML",
-    "Images_SS"
+    "ML"
   ]
 }
