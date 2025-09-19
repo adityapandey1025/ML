@@ -102,5 +102,6 @@ A linear regression model would learn something like:
 	* [Basic code](LA_code_intro.py)
 	* [Intermediate code](LA_code1.py)
 	* [Model accuracy test code](LA_code_3.py)
+	* [Data from csv file](LA_code_04.py)
 	* 
 	* 
