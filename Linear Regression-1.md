@@ -108,4 +108,5 @@ A linear regression model would learn something like:
 * *Predicting the score based on previous study time ,sleep time, attendance,practice test and score*
 	* [Basic code](MR_code1.py)
 * *Predicting the score based on previous study time and score dataset*
-* 
+	* [code](MR_code2.py)
+
