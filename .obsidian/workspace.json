@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "02fd6d0c45bc0309",
+  "active": "9a146b9a80d38114",
   "lastOpenFiles": [
+    "KNN_03.py",
     "KNN_02.py",
     "Images_SS/Pasted image 20250921083839.png",
     "Images_SS/Pasted image 20250921083105.png",
@@ -202,7 +203,6 @@
     "LA_code_3.py~",
     "LA_code_3.py",
     "LA_code_intro.py~",
-    "LA_code_intro.py",
     "Lecture2/h.md",
     "Lecture2/Linear Regression 1.md",
     "Images_SS/Pasted image 20250918185427.png",
