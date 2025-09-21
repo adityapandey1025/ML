@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Linear Regression-1"
             }
+          },
+          {
+            "id": "02fd6d0c45bc0309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KNN"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,22 +184,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d75606e8e7e2ef8e",
+  "active": "02fd6d0c45bc0309",
   "lastOpenFiles": [
+    "KNN_02.py",
+    "Images_SS/Pasted image 20250921083839.png",
+    "Images_SS/Pasted image 20250921083105.png",
+    "Linear Regression-1.md",
+    "KNN.md",
     "muthhi.csv",
     "MR_code2.py",
     "student_performance_with_sports.csv",
     "MR_code1.py",
     "student_performance.csv",
     "code_04.md",
-    "Linear Regression-1.md",
     "ML-Intro.md",
     "KNN_01.py",
     "LA_code_3.py~",
     "LA_code_3.py",
     "LA_code_intro.py~",
     "LA_code_intro.py",
-    "LA_code1.py~",
     "Lecture2/h.md",
     "Lecture2/Linear Regression 1.md",
     "Images_SS/Pasted image 20250918185427.png",
