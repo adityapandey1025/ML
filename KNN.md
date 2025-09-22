@@ -60,3 +60,11 @@ New fruit → (Weight=160, Color=6)
 - Find nearest neighbors in dataset.
     
 - If 4 are Apple, 1 is Orange → prediction = **Apple 🍎**.
+
+
+# Examples of KNN
+* [*KNN model on pass /fail*](KNN_01.py)
+* [*KNN model on breast cancer dataset](KNN_02.py)
+* [*KNN model on dating](KNN_03.py)
+* 
+	
