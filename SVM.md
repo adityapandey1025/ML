@@ -1,4 +1,4 @@
-Support Vector Machines (SVM) is a **supervised learning algorithm** that can be used for both **classification** and **regression** tasks.
+Support Vector Machines (SVM) is a **supervised ML learning algorithm** that can be used for both **classification** and **regression** tasks.[[ML-Intro]]
 
 ---
 # Problem Setup
@@ -101,6 +101,7 @@ In **SVM**, instead of looking at neighbors:
 ## Why do we need hyperplanes 
 
 In below case, it is impossible to draw a line or find a function of line which separate two category. That's why concept of hyperplanes(3D planes) are introduced......
+*A **kernel** helps by transforming data into another space where separation is easier.*
 ![[Pasted image 20250922224316.png]]
 
 ## 7. **When to use SVM**
