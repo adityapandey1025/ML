@@ -26,3 +26,4 @@ A **single decision tree** can sometimes make **unstable or biased splits**.
 
 ✅ This reduces bias, avoids overfitting, and gives more **robust and accurate results**.
 
+

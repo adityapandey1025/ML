@@ -67,4 +67,7 @@ New fruit → (Weight=160, Color=6)
 * [*KNN model on breast cancer dataset](KNN_02.py)
 * [*KNN model on dating](KNN_03.py)
 * 
-	
+
+![[Pasted image 20250927181248.png]]
+![[Pasted image 20250927181256.png]]
+![[Pasted image 20250927181322.png]]
