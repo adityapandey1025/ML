@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SVM.md",
-                "mode": "preview",
+                "file": "Random Forest Classification.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVM"
+              "title": "Random Forest Classification"
             }
           }
         ]
@@ -171,17 +171,23 @@
   },
   "active": "e96e9ea0fffa320e",
   "lastOpenFiles": [
+    "Decision Tree.md",
+    "Random Forest Classification.md",
+    "Images_SS/Pasted image 20250927165756.png",
+    "Images_SS/Pasted image 20250927164134.png",
+    "Images_SS/Pasted image 20250927163600.png",
+    "SVM_02.py.md",
+    "KNN.md",
+    "SVM.md",
     "nature.csv",
     "nature1.csv",
     "people_dataset_2000.csv",
     "SVC_02.py",
     "ML-Intro.md",
-    "SVM.md",
     "Linear Regression-1.md",
     "Images_SS/Pasted image 20250922232055.png",
     "Images_SS/Pasted image 20250922232016.png",
     "Images_SS/Pasted image 20250922224316.png",
-    "KNN.md",
     "Images_SS/Pasted image 20250922222123.png",
     "KNN_3.py.md",
     "KNN_03.py",
@@ -192,13 +198,9 @@
     "MR_code2.py",
     "student_performance_with_sports.csv",
     "MR_code1.py",
-    "student_performance.csv",
     "code_04.md",
     "Lecture2/h.md",
     "Lecture2/Linear Regression 1.md",
-    "Images_SS/Pasted image 20250918185427.png",
-    "Images_SS/Pasted image 20250918185107.png",
-    "Images_SS/Pasted image 20250918185037.png",
-    "Images_SS/Pasted image 20250918184447.png"
+    "Images_SS/Pasted image 20250918185427.png"
   ]
 }

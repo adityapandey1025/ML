@@ -23,7 +23,7 @@ scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X_label)
 
 # Train-test split
-train_x,test_x,train_y,test_y=train_test_split(X_scaled,y_label,test_size=0.2,random_state=42)
+train_x,test_x,train_y,test_y=train_test_split(X_scaled,y_label,test_size=0.2)
 
 # Train SVC
 model=SVC(kernel="linear",C=5)
@@ -31,20 +31,19 @@ model.fit(train_x,train_y)
 
 # model accuracy
 accuracy=model.score(test_x,test_y)
-print(f"Model Accuracy: {accuracy*100:.2f}%")
+print(f"Model Accuracy: {accuracy}")
 
 # Mapping dictionary for user-friendly input
 night_out_map=["yes","no"]
 
-# Collect user input
 user_input = {}
-user_input["body_count"] = input("Enter body count: ")
-user_input["followers"] = input("Enter instagram followers: ")
-user_input["following"] = input("Enter instagram following: ")
-user_input["late_talks_hours"] = input("Enter late talks hours with a friend or bf: ")
-user_input["best_friends_count"] = input("Enter best friends count: ")
-user_input["boyfriend_count"] = input(f"Enter boyfriend count: ")
-user_input["late_night_out"] = input(f"Enter late night out {"/".join(night_out_map)} : ").lower()
+user_input["body_count"] = int(input("Enter body count: "))
+user_input["followers"] = int(input("Enter instagram followers: "))
+user_input["following"] = int(input("Enter instagram following: "))
+user_input["late_talks_hours"] = int(input("Enter late talks hours with a friend or bf: "))
+user_input["best_friends_count"] = int(input("Enter best friends count: "))
+user_input["boyfriend_count"] = int(input("Enter boyfriend count: "))
+user_input["late_night_out"] = input(f"Enter late night out ({'/'.join(night_out_map)}): ").lower()
 
 # Convert input to dataframe
 input_df = pd.DataFrame([user_input])
