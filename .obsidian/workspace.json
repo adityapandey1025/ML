@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Decision Tree"
             }
+          },
+          {
+            "id": "5f2943474185bde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network (01).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Network (01)"
+            }
+          },
+          {
+            "id": "6c9c3e128e899bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network (02).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Network (02)"
+            }
+          },
+          {
+            "id": "b7e1663ca80bed0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network (01).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neural Network (01)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,8 +212,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "e96e9ea0fffa320e",
+  "active": "b7e1663ca80bed0d",
   "lastOpenFiles": [
+    "Types of NN.md",
+    "Neural Network (02).md",
+    "Images_SS/Pasted image 20250929000414.png",
+    "Images_SS/Pasted image 20250929000401.png",
+    "Images_SS/Pasted image 20250929000348.png",
+    "Neural Network (01).md",
+    "Images_SS/Pasted image 20250928231916.png",
+    "Decision Tree.md",
     "K-Means Clustering.md",
     "Random Forest Classification.md",
     "RTF_01.py.md",
@@ -179,15 +230,12 @@
     "Images_SS/Pasted image 20250928060446.png",
     "Images_SS/Pasted image 20250928060209.png",
     "RFT_01.py",
-    "Decision Tree.md",
     "KNN.md",
     "Images_SS/Pasted image 20250927181322.png",
     "Images_SS/Pasted image 20250927181256.png",
     "Images_SS/Pasted image 20250927181248.png",
     "DT_01.py",
     "Images_SS/Pasted image 20250927165756.png",
-    "Images_SS/Pasted image 20250927164134.png",
-    "Images_SS/Pasted image 20250927163600.png",
     "SVM_02.py.md",
     "SVM.md",
     "nature.csv",
@@ -196,8 +244,6 @@
     "SVC_02.py",
     "ML-Intro.md",
     "Linear Regression-1.md",
-    "Images_SS/Pasted image 20250922232055.png",
-    "Images_SS/Pasted image 20250922232016.png",
     "KNN_3.py.md",
     "KNN_03.py",
     "KNN_02.py",
